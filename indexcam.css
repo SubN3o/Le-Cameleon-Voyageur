@@ -50,3 +50,7 @@ body {
     filter: none;
     background-repeat: none;
 }
+
+.col-xs-3 {
+	font-size: 20px;
+}
