@@ -26,20 +26,16 @@ body {
 	#logo{
 		display: none;
 	}
-
 	.carousel-inner{
 		padding-left: 0px;
 	}
-
-/* Retirer les bordures des images */
+}
 .thumbnail{
 	text-align: center;
 	border: 0px;
 	background: none;
 	font-size: 22px;
 }
-
-/* Retirer les ombres latérales */
 .carousel-control.left {
     background-image: none;
     filter: none;
