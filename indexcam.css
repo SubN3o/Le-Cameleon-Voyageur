@@ -43,3 +43,15 @@ body {
     filter: none;
     background-repeat: none;
 }
+#accordion{
+	text-align: center;
+}
+.nav>li.burger {
+	padding: 20px;
+	cursor: pointer; 
+	display: inline;
+
+}
+.youpi{
+	text-align: center;
+}
