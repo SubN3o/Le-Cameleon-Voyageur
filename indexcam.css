@@ -26,9 +26,6 @@ body {
 	#logo{
 		display: none;
 	}
-	.carousel-inner{
-		padding-left: 0px;
-	}
 }
 .thumbnail{
 	text-align: center;
