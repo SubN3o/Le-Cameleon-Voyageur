@@ -30,6 +30,7 @@ body {
 	.carousel-inner{
 		padding-left: 0px;
 	}
+}
 
 /* Retirer les bordures des images */
 .thumbnail{
@@ -51,6 +52,13 @@ body {
     background-repeat: none;
 }
 
-.col-xs-3 {
-	font-size: 18px;
+
+.prix{
+	text-align: right;
+	font-size: 17px;
+
+}
+
+.plat {
+	font-size: 17px;
 }
