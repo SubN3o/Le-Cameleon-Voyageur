@@ -25,10 +25,8 @@ body {
 	background: #99CD2C;
 }
 
-@media all and (max-width: 650px){
-	#map{
-		display: none;
-	}
+@media all and (max-width: 768px){
+
 	#logo{
 		display: none;
 	}
@@ -83,9 +81,20 @@ body {
 }
 
 .panel{
-		background-color: yellow;
+	background-color: yellow;
 }
 
-.panel-title{
+.headtitle{
+	font-family: 'lobster', "times new roman";
+	font-size: 30px;
+}
 
+@media all and (max-width: 500px){
+
+	#map{
+		display: none;
+	}
+	}
+.carousel-indicators{
+	display:none;
 }
