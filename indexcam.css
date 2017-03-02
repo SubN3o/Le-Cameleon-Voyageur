@@ -5,6 +5,12 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+	font-family: 'Lobster', cursive;
+	color: #85411D;
+	font-size: 22px;
+	text-align: center;
+}
 .navbar-brand{
 	font-family: 'lobster', "times new roman";
 	font-size: 40px;
@@ -76,3 +82,10 @@ body {
 	font-size: 17px;
 }
 
+.panel{
+		background-color: yellow;
+}
+
+.panel-title{
+
+}
