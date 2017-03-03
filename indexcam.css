@@ -59,16 +59,16 @@ body {
 	text-align: center;
 }
 .nav>li.burger {
-	padding: 20px;
+	padding: 15px;
 	cursor: pointer; 
 	display: inline;
+	font-family: 'lobster', "times new roman";
+	font-size: 30px;
 
 }
 .youpi{
 	text-align: center;
 }
-
-
 
 .prix{
 	text-align: right;
@@ -81,12 +81,12 @@ body {
 }
 
 .panel{
-	background-color: yellow;
+	background-color: #efe923;
 }
 
 .headtitle{
 	font-family: 'lobster', "times new roman";
-	font-size: 30px;
+	font-size: 35px;
 }
 
 @media all and (max-width: 500px){
@@ -94,7 +94,20 @@ body {
 	#map{
 		display: none;
 	}
+	#accordion{
+		padding-top: 70px;
 	}
+}
 .carousel-indicators{
 	display:none;
+}
+.navbar-fixed-top{
+	background-color: #fa8b22;
+}
+.panel-title{
+	font-family: 'lobster', "times new roman";
+}
+#facebook{
+	position: absolute;
+	padding-left: 48%;
 }
